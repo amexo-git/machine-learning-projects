@@ -1,0 +1,12 @@
+pandas==1.4.2
+matplotlib==3.5.2
+matplotlib-inline==0.1.3
+numpy==1.22.3
+Pillow==9.1.0
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+sklearn==0.0
+streamlit==1.9.0
+streamlit-option-menu==0.3.2
+pickleshare==0.7.5
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+importlib-metadata==4.11.3
